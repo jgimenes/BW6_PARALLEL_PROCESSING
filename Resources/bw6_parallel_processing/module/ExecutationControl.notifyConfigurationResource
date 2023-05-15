@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jndi:namedResource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jndi="http://xsd.tns.tibco.com/amf/models/sharedresource/jndi" xmlns:notifyconfiguration="http://ns.tibco.com/bw/sharedresource/notifyconfiguration" xmlns:tns_1684152168498="http://www.example.com/namespaces/tns/1684152168498" xmi:id="_fOxzsfNEEe2m4IVp0JPDaQ" name="bw6_parallel_processing.module.ExecutationControl" type="notifyconfiguration:NotifyConfiguration">
+  <imports xmi:id="_gJNboPNEEe2m4IVp0JPDaQ" importType="http://www.w3.org/2001/XMLSchema" namespace="http://www.example.com/namespaces/tns/1684152168498"/>
+  <jndi:configuration xsi:type="notifyconfiguration:NotifyConfiguration" xmi:id="_fOxzsvNEEe2m4IVp0JPDaQ" schemaElementQname="tns_1684152168498:executationControl"/>
+</jndi:namedResource>

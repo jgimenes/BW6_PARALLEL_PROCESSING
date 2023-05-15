@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msv:DocumentRoot xmlns:msv="http://tns.tibco.com/bw/model/core/moduleSV">
+  <moduleSharedVariables>
+    <moduleSharedVariable name="moduleSharedVariable" type="{http://www.example.com/namespaces/tns/1684152168498}processControl" initialValueMode="literal" initialValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;tns:processControl xmlns:tns=&quot;http://www.example.com/namespaces/tns/1684152168498&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;>&#xA;  &lt;callSerivcesNumber>3&lt;/callSerivcesNumber>&#xA;&lt;/tns:processControl>&#xA;"/>
+  </moduleSharedVariables>
+  <import importType="http://www.w3.org/2001/XMLSchema" namespace="http://www.example.com/namespaces/tns/1684152168498" location="../Schemas/BW6_PARALLEL_PROCESSING.xsd"/>
+</msv:DocumentRoot>
